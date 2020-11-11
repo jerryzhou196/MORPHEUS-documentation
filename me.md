@@ -1,1 +1,0 @@
-There has to be stuff in order to fill the help menu

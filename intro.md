@@ -12,4 +12,4 @@ MORPHEUS - G4/FUS is an application designed to plan Focused Ultrasound (FUS) pr
 ![image](/t.png)
 
 ## Credits
-University Of Calgary. Dr. Laura Curiel. Kasha Talaga. 
+University Of Calgary. Dr. Laura Curiel. Kasha Talaga. Documentation Rewritten By Jerry Zhou.
